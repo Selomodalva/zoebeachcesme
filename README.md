@@ -2,6 +2,11 @@
 
 This project publishes the existing `Zoe Rules.pdf` file as a free GitHub Pages site.
 
+Live links:
+
+- Site: `https://selomodalva.github.io/Zoe-Rules-Link/`
+- Direct PDF: `https://selomodalva.github.io/Zoe-Rules-Link/Zoe%20Rules.pdf`
+
 Files:
 
 - `index.html` provides a public landing page with a clickable button to the PDF.
