@@ -4,11 +4,12 @@ This project publishes the existing `Zoe Rules.pdf` file as a free GitHub Pages 
 
 Live links:
 
-- Site: `https://selomodalva.github.io/zoebeachcesme/`
-- Direct PDF: `https://selomodalva.github.io/zoebeachcesme/Zoe%20Rules.pdf`
+- Site: `https://rules.zoebeachcesme.com/`
+- Direct PDF: `https://rules.zoebeachcesme.com/Zoe%20Rules.pdf`
 
 Files:
 
+- `CNAME` stores the custom GitHub Pages domain.
 - `index.html` redirects the site root directly to the PDF.
 - `Zoe Rules.pdf` remains the original rule set file.
 
