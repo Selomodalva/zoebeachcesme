@@ -4,12 +4,12 @@ This project publishes the existing `Zoe Rules.pdf` file as a free GitHub Pages 
 
 Live links:
 
-- Site: `https://selomodalva.github.io/Zoe-Rules-Link/`
-- Direct PDF: `https://selomodalva.github.io/Zoe-Rules-Link/Zoe%20Rules.pdf`
+- Site: `https://selomodalva.github.io/zoebeachcesme/`
+- Direct PDF: `https://selomodalva.github.io/zoebeachcesme/Zoe%20Rules.pdf`
 
 Files:
 
-- `index.html` provides a public landing page with a clickable button to the PDF.
+- `index.html` redirects the site root directly to the PDF.
 - `Zoe Rules.pdf` remains the original rule set file.
 
 After GitHub Pages is enabled, the site root and the direct PDF file can both be shared.
